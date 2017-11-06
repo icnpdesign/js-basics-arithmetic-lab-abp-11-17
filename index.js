@@ -9,4 +9,4 @@ You should NOT try to redefine any of the above variables.
 // Write your code below this line!
 const newID = oldID + 1000000000;
 const ageIsValid = Number.isInteger(currentAge);
-let randomNumber = Math.floor(Math.rand() * 20) + 0;
+let randomNumber = Math.floor(Math.random() * 20) + 0;
